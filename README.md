@@ -125,27 +125,24 @@ Ces segments permettent de naviguer dans les données sans modifier les tableaux
 ## Structure du projet
 
 ```text
-Reporting Excel 360_AssurGuinée 360/
-│
-├── donnees/
-│   ├── Agences.csv
-│   ├── Agents.csv
-│   ├── Calendrier.csv
-│   ├── Clients.csv
-│   ├── Contrats.csv
-│   ├── Objectifs.csv
-│   ├── Produits.csv
-│   └── Sinistres.csv
-│
-├── excel/
-│   └── reporting_excel_360_assurance.xlsx
+reporting-excel-360-assurance/
 │
 ├── captures_ecran/
 │   └── 01_dashboard_excel_360.png
 │
-├── documentation/
-│
+├── Agences.csv
+├── Agents.csv
+├── Calendrier.csv
+├── Clients.csv
+├── Contrats.csv
+├── Dictionnaire_Donnees.csv
+├── Objectifs.csv
+├── Produits.csv
+├── Sinistres.csv
+├── insights_business.md
+├── reporting_excel_360_assurance.xlsx
 └── README.md
+```
 
 ---
 
