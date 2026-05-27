@@ -146,3 +146,12 @@ Reporting Excel 360_AssurGuinée 360/
 ├── documentation/
 │
 └── README.md
+
+---
+
+## Auteur
+
+**Ousmane Tawel CAMARA**  
+Data & BI Analyst
+
+Projet réalisé dans le cadre de mon portfolio data, avec des données fictives appliquées au secteur de l’assurance.
